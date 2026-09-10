@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "paymint/paymint-laravel",
     "description": "The official Laravel wrapper for PayMint Africa",
     "type": "library",

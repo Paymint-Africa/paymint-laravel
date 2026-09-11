@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 namespace PayMint\Laravel\Facades;
 
 use Illuminate\Support\Facades\Facade;

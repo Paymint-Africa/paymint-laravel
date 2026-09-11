@@ -1,4 +1,4 @@
-﻿# PayMint Africa Laravel SDK
+# PayMint Africa Laravel SDK
 
 The official Laravel wrapper for PayMint Africa. Seamlessly integrate PayMint checkout, virtual accounts, and webhooks into your Laravel application with zero configuration and elegant syntax.
 
